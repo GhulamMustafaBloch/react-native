@@ -28,7 +28,8 @@ const styles = StyleSheet.create({
     qurqnText:{
         fontSize: 15,
         color: "#fff",
-        lineHeight: 30
+        lineHeight: 30,
+        textAlign: "center"
     }
 })
 
